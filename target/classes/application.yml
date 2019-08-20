@@ -15,6 +15,6 @@ spring:
       password: root
 
 mybatis:
-  type-aliases-package: com.demo.User1.User1
+  type-aliases-package: com.demo.bean.User1
   mapper-locations:
   - mapper/*
